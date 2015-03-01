@@ -1,5 +1,5 @@
 # BugSmart
-A lightweight open-source bug tracker for teams of software developers.  Built in PHP, utilizing the Laravel 5 framework.
+A lightweight open-source bug tracker for teams of software developers.  Built in PHP, utilizing the Laravel 5 framework and Twitter Bootstrap.
 
 Version Beta 1 - Feb 28th 2015
 
