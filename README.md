@@ -20,8 +20,6 @@ Register your first user and you are ready to go! <br>
 <br>
 Feedback is greatly appreciated.
 
-The Laravel framework is open-sourced software licensed under the MIT license
-
 ![screen shot 2015-02-28 at 7 38 06 pm](https://cloud.githubusercontent.com/assets/10263546/6428907/caec1d40-bf81-11e4-8b91-325ad1d6e61c.png)
 ![screen shot 2015-02-28 at 7 39 05 pm](https://cloud.githubusercontent.com/assets/10263546/6428908/caec5418-bf81-11e4-92ee-1e27709463f8.png)
 ![screen shot 2015-02-28 at 7 38 16 pm](https://cloud.githubusercontent.com/assets/10263546/6428905/caea78f0-bf81-11e4-9c4a-79b1871458c0.png)
