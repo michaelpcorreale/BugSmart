@@ -1,0 +1,58 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+    font-size: 20px;
+    font-style: normal;
+    margin-left: 20px;
+}
+.flaticon-bug3:before {
+     content: "\e000";
+     font-size: 28px;
+     margin-left: 20px;
+ }
+.flaticon-bug4:before {
+    content: "\e001";
+    font-size: 42px;
+    margin-left: 0px;
+    line-height: 45px;
+    color: #c3c3c3;
+}
+.flaticon-businessmen18:before {
+    content: "\e002";
+    font-size: 42px;
+    margin-left: 0px;
+    line-height: 45px;
+    color: #c3c3c3;
+}
+.flaticon-delete96:before {
+    content: "\e003";
+    margin-left: 10px;
+}
+.flaticon-download105:before {
+    content: "\e004";
+    font-size: 40px;
+    margin-left: 0px;
+    line-height: 45px;
+    color: #c3c3c3;
+}
+.flaticon-pencil41:before {
+    content: "\e005";
+    margin-left: 10px;
+}
+.flaticon-user7:before {
+    content: "\e006";
+    font-size: 42px;
+    margin-left: 0px;
+    line-height: 45px;
+    color: #c3c3c3;
+}
