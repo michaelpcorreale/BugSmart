@@ -9,7 +9,7 @@ BugSmart was designed to run on a machine with PHP 5.5 and MySQL 5.5.
 PHP 5.4.7+.
 You will need Composer installed to load the dependencies of BugSmart.
 
-Create a database and name it "bugsmart"
+Create a database and name it "bugsmart" <br>
 Create a database user with access to bugsmart with the username: admin and password: admin
 Run the command "composer update" to install all dependencies 
 Run the command "php artisan migrate" to populate the database tables
