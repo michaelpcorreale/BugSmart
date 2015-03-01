@@ -16,7 +16,7 @@ Create a database and name it "bugsmart" <br>
 Create a database user with access to bugsmart with the username: admin and password: admin <br>
 Run the command "composer update" to install all dependencies <br>
 Run the command "php artisan migrate" to populate the database tables <br>
-Create your first user and you are ready to go! <br>
+Register your first user and you are ready to go! <br>
 <br>
 Feedback is greatly appreciated.
 
