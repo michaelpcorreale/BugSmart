@@ -1,14 +1,21 @@
 # BugSmart
-A lightweight open-source bug tracker for teams of software developers.  Built in PHP utilizing the Laravel 5 framework.
+A lightweight open-source bug tracker for teams of software developers.  Built in PHP, utilizing the Laravel 5 framework.
 
 Version Beta 1 - Feb 28th 2015
 
-System Requirements
 
 BugSmart was designed to run on a machine with PHP 5.5 and MySQL 5.5.
 
 PHP 5.4.7+.
 You will need Composer installed to load the dependencies of BugSmart.
+
+Create a database and name it "bugsmart"
+Create a database user with access to bugsmart with the username: admin and password: admin
+Run the command "composer update" to install all dependencies 
+Run the command "php artisan migrate" to populate the database tables
+Create your first user and you are ready to go!
+
+Feedback is greatly appreciated.
 
 ![screen shot 2015-02-28 at 7 38 06 pm](https://cloud.githubusercontent.com/assets/10263546/6428907/caec1d40-bf81-11e4-8b91-325ad1d6e61c.png)
 ![screen shot 2015-02-28 at 7 39 05 pm](https://cloud.githubusercontent.com/assets/10263546/6428908/caec5418-bf81-11e4-92ee-1e27709463f8.png)
