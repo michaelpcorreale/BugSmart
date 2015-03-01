@@ -3,12 +3,14 @@ A lightweight open-source bug tracker for teams of software developers.  Built i
 
 Version Beta 1 - Feb 28th 2015
 
-<strong>System Requirements</strong>
+<strong>System Requirements:</strong>
 
 BugSmart was designed to run on a machine with PHP 5.5 and MySQL 5.5.
 
 PHP 5.4.7+.
 You will need Composer installed to load the dependencies of BugSmart.
+
+<strong>Installation:</strong>
 
 Create a database and name it "bugsmart" <br>
 Create a database user with access to bugsmart with the username: admin and password: admin <br>
