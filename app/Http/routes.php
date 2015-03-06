@@ -25,7 +25,7 @@ Route::get('bugs/edit/{id}', 'HomeController@view_edit');
 
 Route::get('bugs/delete/{id}', 'HomeController@delete');
 
-Route::post('report_bug', 'HomeController@store');
+Route::post('report_bug', 'BugsController@store');
 
 Route::post('edit_bug', 'HomeController@edit');
 
