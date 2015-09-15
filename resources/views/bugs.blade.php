@@ -112,7 +112,7 @@
                                         <h4 class="modal-title" id="myModalLabel">Report a Bug</h4>
                                     </div>
                                     <div class="modal-body">
-                                        <form method="POST" action="http://localhost:8888/report_bug" accept-charset="UTF-8">
+                                        <form method="POST" action="/report_bug" accept-charset="UTF-8">
                                             <input name="_token" type="hidden" value="{{ csrf_token() }}">
                                             <div class="form-group">
 
