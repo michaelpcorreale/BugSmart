@@ -101,7 +101,7 @@
                             Go Back
                         </a>
 
-                        <form method="POST" action="http://localhost:8888/edit_bug" accept-charset="UTF-8">
+                        <form method="POST" action="/edit_bug" accept-charset="UTF-8">
                             <input name="_token" type="hidden" value="{{ csrf_token() }}">
                             <div class="form-group">
 
